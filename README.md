@@ -7,3 +7,4 @@ Meta keys for this wordoress category
 Types nd Taxonomy:
 post_type=post
 taxonomy=category
+category_slug = jobs
